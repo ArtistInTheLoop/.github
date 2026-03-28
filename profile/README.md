@@ -1,5 +1,7 @@
 # ArtistInTheLoop Games
 
+We make games!
+
 Every game we make is designed by algorithms and finished by hand.
 
 We design games using a proprietary pipeline that combines stochastic simulation and AI-driven design at scale. Thousands of games are generated, simulated and stress-tested. The ones that survive are mechanically sharp, balanced, replayable and deep where it matters.
